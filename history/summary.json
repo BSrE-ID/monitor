@@ -78,19 +78,19 @@
     "url": "https://gitlab-bsre.bssn.go.id/users/sign_in",
     "icon": "https://favicons.githubusercontent.com/gitlab-bsre.bssn.go.id",
     "slug": "repo-b-sr-e",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1591,
-    "timeDay": 1433,
-    "timeWeek": 1612,
-    "timeMonth": 1591,
-    "timeYear": 1591,
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "96.50%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
+    "time": 1583,
+    "timeDay": 1409,
+    "timeWeek": 1583,
+    "timeMonth": 1583,
+    "timeYear": 1583,
     "dailyMinutesDown": {
-      "2021-06-05": 0
+      "2021-06-05": 50
     }
   },
   {
