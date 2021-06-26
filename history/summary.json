@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1127,
-    "timeDay": 1029,
-    "timeWeek": 1074,
-    "timeMonth": 1123,
-    "timeYear": 1127,
+    "time": 1131,
+    "timeDay": 1293,
+    "timeWeek": 1130,
+    "timeMonth": 1133,
+    "timeYear": 1131,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1101,
-    "timeDay": 906,
-    "timeWeek": 1029,
-    "timeMonth": 1103,
-    "timeYear": 1101,
+    "time": 1109,
+    "timeDay": 1424,
+    "timeWeek": 1102,
+    "timeMonth": 1117,
+    "timeYear": 1109,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1136,
-    "timeDay": 888,
-    "timeWeek": 1167,
-    "timeMonth": 1139,
-    "timeYear": 1136,
+    "time": 1145,
+    "timeDay": 1525,
+    "timeWeek": 1243,
+    "timeMonth": 1160,
+    "timeYear": 1145,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.85%",
-    "time": 5406,
-    "timeDay": 4746,
-    "timeWeek": 5002,
-    "timeMonth": 5508,
-    "timeYear": 5406,
+    "time": 5429,
+    "timeDay": 6413,
+    "timeWeek": 5308,
+    "timeMonth": 5568,
+    "timeYear": 5429,
     "dailyMinutesDown": {
       "2021-06-04": 83
     }
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.91%",
-    "time": 1633,
-    "timeDay": 1412,
-    "timeWeek": 1585,
-    "timeMonth": 1647,
-    "timeYear": 1633,
+    "time": 1637,
+    "timeDay": 1825,
+    "timeWeek": 1654,
+    "timeMonth": 1658,
+    "timeYear": 1637,
     "dailyMinutesDown": {
       "2021-06-05": 50
     }
@@ -99,16 +99,16 @@
     "icon": "https://favicons.githubusercontent.com/file-bsre.bssn.go.id",
     "slug": "file-b-sr-e",
     "status": "up",
-    "uptime": "99.75%",
+    "uptime": "99.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
-    "uptimeYear": "99.75%",
-    "time": 2479,
-    "timeDay": 2208,
-    "timeWeek": 2373,
-    "timeMonth": 2477,
-    "timeYear": 2479,
+    "uptimeYear": "99.76%",
+    "time": 2483,
+    "timeDay": 2620,
+    "timeWeek": 2386,
+    "timeMonth": 2482,
+    "timeYear": 2483,
     "dailyMinutesDown": {
       "2021-05-27": 134
     }
