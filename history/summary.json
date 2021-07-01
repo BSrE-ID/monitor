@@ -4,10 +4,10 @@
     "url": "https://bsre.bssn.go.id",
     "icon": "https://favicons.githubusercontent.com/bsre.bssn.go.id",
     "slug": "laman-umum-b-sr-e",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1136,
@@ -15,17 +15,19 @@
     "timeWeek": 1175,
     "timeMonth": 1148,
     "timeYear": 1136,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-01": 1
+    }
   },
   {
     "name": "Laman AMS BSrE",
     "url": "https://portal-bsre.bssn.go.id/login",
     "icon": "https://favicons.githubusercontent.com/portal-bsre.bssn.go.id",
     "slug": "laman-ams-b-sr-e",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1116,
@@ -33,7 +35,9 @@
     "timeWeek": 1173,
     "timeMonth": 1129,
     "timeYear": 1116,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-01": 1
+    }
   },
   {
     "name": "API BSrE",
@@ -41,18 +45,18 @@
     "icon": "https://favicons.githubusercontent.com/api-bsre.bssn.go.id",
     "slug": "api-b-sr-e",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.93%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.93%",
     "time": 1144,
     "timeDay": 1377,
     "timeWeek": 1154,
     "timeMonth": 1178,
     "timeYear": 1144,
     "dailyMinutesDown": {
-      "2021-07-01": 0
+      "2021-07-01": 41
     }
   },
   {
@@ -61,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/esign-bsre.bssn.go.id",
     "slug": "e-sign-b-sr-e",
     "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
-    "uptimeYear": "99.87%",
+    "uptime": "99.81%",
+    "uptimeDay": "97.13%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.72%",
+    "uptimeYear": "99.81%",
     "time": 5438,
     "timeDay": 6308,
     "timeWeek": 5537,
     "timeMonth": 5382,
     "timeYear": 5438,
     "dailyMinutesDown": {
-      "2021-07-01": 0,
+      "2021-07-01": 41,
       "2021-06-04": 83
     }
   },
@@ -81,9 +85,9 @@
     "url": "https://gitlab-bsre.bssn.go.id/users/sign_in",
     "icon": "https://favicons.githubusercontent.com/gitlab-bsre.bssn.go.id",
     "slug": "repo-b-sr-e",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.92%",
@@ -93,6 +97,7 @@
     "timeMonth": 1676,
     "timeYear": 1639,
     "dailyMinutesDown": {
+      "2021-07-01": 0,
       "2021-06-05": 50
     }
   },
@@ -101,9 +106,9 @@
     "url": "https://file-bsre.bssn.go.id/login",
     "icon": "https://favicons.githubusercontent.com/file-bsre.bssn.go.id",
     "slug": "file-b-sr-e",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
@@ -113,6 +118,7 @@
     "timeMonth": 2489,
     "timeYear": 2489,
     "dailyMinutesDown": {
+      "2021-07-01": 0,
       "2021-05-27": 134
     }
   }
