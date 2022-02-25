@@ -1,7 +1,7 @@
 url: https://gitlab-bsre.bssn.go.id/users/sign_in
-status: up
-code: 200
-responseTime: 1810
-lastUpdated: 2022-02-24T23:13:21.353Z
+status: down
+code: 403
+responseTime: 262
+lastUpdated: 2022-02-25T18:50:41.783Z
 startTime: Tue May 18 2021 13:01:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
