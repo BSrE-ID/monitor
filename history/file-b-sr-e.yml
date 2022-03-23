@@ -1,7 +1,7 @@
 url: https://file-bsre.bssn.go.id/login
-status: down
-code: 502
-responseTime: 864
-lastUpdated: 2022-03-23T08:48:17.892Z
+status: up
+code: 200
+responseTime: 1184
+lastUpdated: 2022-03-23T20:28:59.390Z
 startTime: Tue May 18 2021 13:01:44 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
