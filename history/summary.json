@@ -11,10 +11,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.42%",
     "time": 1260,
-    "timeDay": 1138,
-    "timeWeek": 1117,
+    "timeDay": 1052,
+    "timeWeek": 1129,
     "timeMonth": 1460,
-    "timeYear": 1276,
+    "timeYear": 1277,
     "dailyMinutesDown": {
       "2022-07-02": 18,
       "2022-06-29": 20,
@@ -36,8 +36,7 @@
       "2021-09-19": 85,
       "2021-08-20": 29,
       "2021-07-27": 17,
-      "2021-07-13": 292,
-      "2021-07-12": 691
+      "2021-07-13": 292
     }
   },
   {
@@ -46,16 +45,16 @@
     "icon": "https://favicons.githubusercontent.com/portal-bsre.bssn.go.id",
     "slug": "laman-ams-b-sr-e",
     "status": "up",
-    "uptime": "99.17%",
+    "uptime": "99.18%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.64%",
     "uptimeYear": "99.09%",
     "time": 1227,
-    "timeDay": 1124,
-    "timeWeek": 1011,
+    "timeDay": 1041,
+    "timeWeek": 1014,
     "timeMonth": 1388,
-    "timeYear": 1243,
+    "timeYear": 1244,
     "dailyMinutesDown": {
       "2022-06-29": 180,
       "2022-06-28": 414,
@@ -77,8 +76,7 @@
       "2021-09-19": 85,
       "2021-08-20": 29,
       "2021-07-27": 16,
-      "2021-07-13": 292,
-      "2021-07-12": 691
+      "2021-07-13": 292
     }
   },
   {
@@ -93,9 +91,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.13%",
     "time": 1144,
-    "timeDay": 1130,
-    "timeWeek": 992,
-    "timeMonth": 924,
+    "timeDay": 1115,
+    "timeWeek": 1001,
+    "timeMonth": 918,
     "timeYear": 1143,
     "dailyMinutesDown": {
       "2022-06-29": 18,
@@ -115,8 +113,7 @@
       "2021-10-05": 61,
       "2021-08-20": 28,
       "2021-07-27": 16,
-      "2021-07-13": 137,
-      "2021-07-12": 690
+      "2021-07-13": 137
     }
   },
   {
@@ -125,18 +122,19 @@
     "icon": "https://favicons.githubusercontent.com/esign-bsre.bssn.go.id",
     "slug": "e-sign-b-sr-e",
     "status": "down",
-    "uptime": "65.26%",
+    "uptime": "65.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "60.23%",
+    "uptimeYear": "59.96%",
     "time": 5436,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 5436,
+    "timeYear": 5440,
     "dailyMinutesDown": {
-      "2022-07-11": 68,
+      "2022-07-12": 72,
+      "2022-07-11": 1440,
       "2022-07-10": 1440,
       "2022-07-09": 1440,
       "2022-07-08": 1440,
@@ -296,8 +294,7 @@
       "2021-08-19": 22,
       "2021-08-16": 69,
       "2021-07-27": 65,
-      "2021-07-13": 407,
-      "2021-07-12": 798
+      "2021-07-13": 407
     }
   },
   {
@@ -312,10 +309,10 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.52%",
     "time": 1586,
-    "timeDay": 1977,
-    "timeWeek": 1680,
-    "timeMonth": 1906,
-    "timeYear": 1576,
+    "timeDay": 1707,
+    "timeWeek": 1667,
+    "timeMonth": 1905,
+    "timeYear": 1577,
     "dailyMinutesDown": {
       "2022-06-29": 17,
       "2022-06-21": 19,
@@ -336,8 +333,7 @@
       "2021-11-13": 713,
       "2021-10-05": 60,
       "2021-08-20": 27,
-      "2021-07-13": 137,
-      "2021-07-12": 689
+      "2021-07-13": 137
     }
   },
   {
@@ -351,11 +347,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.25%",
-    "time": 1926,
-    "timeDay": 1597,
-    "timeWeek": 1567,
-    "timeMonth": 1800,
-    "timeYear": 1841,
+    "time": 1925,
+    "timeDay": 1615,
+    "timeWeek": 1565,
+    "timeMonth": 1802,
+    "timeYear": 1839,
     "dailyMinutesDown": {
       "2022-06-29": 17,
       "2022-06-21": 19,
@@ -377,8 +373,7 @@
       "2021-11-13": 712,
       "2021-10-05": 59,
       "2021-08-20": 27,
-      "2021-07-13": 138,
-      "2021-07-12": 688
+      "2021-07-13": 138
     }
   }
 ]
