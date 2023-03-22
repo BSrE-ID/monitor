@@ -82,9 +82,9 @@
     "url": "https://portal-bsre.bssn.go.id/login",
     "icon": "https://icons.duckduckgo.com/ip3/portal-bsre.bssn.go.id.ico",
     "slug": "laman-ams-b-sr-e",
-    "status": "up",
+    "status": "down",
     "uptime": "95.64%",
-    "uptimeDay": "95.83%",
+    "uptimeDay": "95.81%",
     "uptimeWeek": "96.55%",
     "uptimeMonth": "96.34%",
     "uptimeYear": "92.48%",
@@ -200,7 +200,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-03-22": 1327,
+      "2023-03-22": 1343,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -584,7 +584,7 @@
     "timeMonth": 0,
     "timeYear": 1742,
     "dailyMinutesDown": {
-      "2023-03-22": 1327,
+      "2023-03-22": 1343,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
@@ -790,7 +790,7 @@
     "timeMonth": 0,
     "timeYear": 1533,
     "dailyMinutesDown": {
-      "2023-03-22": 1327,
+      "2023-03-22": 1343,
       "2023-03-21": 1440,
       "2023-03-20": 1440,
       "2023-03-19": 1440,
