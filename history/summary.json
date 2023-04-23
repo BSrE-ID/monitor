@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsre.bssn.go.id.ico",
     "slug": "laman-umum-b-sr-e",
     "status": "up",
-    "uptime": "93.50%",
+    "uptime": "93.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "88.02%",
     "time": 1248,
-    "timeDay": 1020,
-    "timeWeek": 1006,
-    "timeMonth": 1506,
-    "timeYear": 1211,
+    "timeDay": 812,
+    "timeWeek": 977,
+    "timeMonth": 1485,
+    "timeYear": 1210,
     "dailyMinutesDown": {
       "2023-04-18": 18,
       "2023-03-09": 88,
@@ -73,8 +73,7 @@
       "2022-06-29": 20,
       "2022-06-09": 26,
       "2022-05-30": 15,
-      "2022-05-17": 20,
-      "2022-04-23": 285
+      "2022-05-17": 20
     }
   },
   {
@@ -86,13 +85,13 @@
     "uptime": "95.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.22%",
-    "uptimeMonth": "97.81%",
+    "uptimeMonth": "98.05%",
     "uptimeYear": "92.32%",
     "time": 1356,
-    "timeDay": 1019,
-    "timeWeek": 1790,
-    "timeMonth": 1493,
-    "timeYear": 1333,
+    "timeDay": 819,
+    "timeWeek": 1766,
+    "timeMonth": 1520,
+    "timeYear": 1332,
     "dailyMinutesDown": {
       "2023-04-18": 79,
       "2023-04-13": 71,
@@ -156,8 +155,7 @@
       "2022-06-28": 414,
       "2022-06-09": 25,
       "2022-05-14": 476,
-      "2022-05-13": 827,
-      "2022-04-23": 284
+      "2022-05-13": 827
     }
   },
   {
@@ -171,10 +169,10 @@
     "uptimeWeek": "98.90%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.44%",
-    "time": 1021,
-    "timeDay": 1056,
-    "timeWeek": 1370,
-    "timeMonth": 1076,
+    "time": 1020,
+    "timeDay": 742,
+    "timeWeek": 1344,
+    "timeMonth": 1066,
     "timeYear": 971,
     "dailyMinutesDown": {
       "2023-04-18": 111,
@@ -187,8 +185,7 @@
       "2022-06-29": 18,
       "2022-04-27": 536,
       "2022-04-26": 1440,
-      "2022-04-25": 328,
-      "2022-04-23": 284
+      "2022-04-25": 328
     }
   },
   {
@@ -197,18 +194,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/esign-bsre.bssn.go.id.ico",
     "slug": "e-sign-b-sr-e",
     "status": "down",
-    "uptime": "38.82%",
+    "uptime": "38.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 5320,
+    "time": 5332,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-22": 52,
+      "2023-04-23": 57,
+      "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
@@ -571,8 +569,7 @@
       "2022-04-27": 1440,
       "2022-04-26": 1440,
       "2022-04-25": 1440,
-      "2022-04-24": 1440,
-      "2022-04-23": 1440
+      "2022-04-24": 1440
     }
   },
   {
@@ -581,18 +578,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab-bsre.bssn.go.id.ico",
     "slug": "repo-b-sr-e",
     "status": "down",
-    "uptime": "69.90%",
+    "uptime": "69.80%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.47%",
-    "time": 1656,
+    "uptimeYear": "42.20%",
+    "time": 1657,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1667,
+    "timeYear": 1669,
     "dailyMinutesDown": {
-      "2023-04-22": 52,
+      "2023-04-23": 57,
+      "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
@@ -807,8 +805,7 @@
       "2022-06-29": 17,
       "2022-06-21": 19,
       "2022-06-02": 37,
-      "2022-05-25": 21,
-      "2022-04-23": 66
+      "2022-05-25": 21
     }
   },
   {
@@ -817,18 +814,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/file-bsre.bssn.go.id.ico",
     "slug": "file-b-sr-e",
     "status": "down",
-    "uptime": "69.75%",
+    "uptime": "69.65%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "42.48%",
-    "time": 1484,
+    "uptimeYear": "42.20%",
+    "time": 1485,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1531,
+    "timeYear": 1533,
     "dailyMinutesDown": {
-      "2023-04-22": 53,
+      "2023-04-23": 57,
+      "2023-04-22": 1440,
       "2023-04-21": 1440,
       "2023-04-20": 1440,
       "2023-04-19": 1440,
@@ -1041,8 +1039,7 @@
       "2022-09-24": 1161,
       "2022-09-08": 30,
       "2022-06-29": 17,
-      "2022-06-21": 19,
-      "2022-04-23": 99
+      "2022-06-21": 19
     }
   }
 ]
