@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsre.bssn.go.id.ico",
     "slug": "laman-umum-b-sr-e",
     "status": "down",
-    "uptime": "79.29%",
+    "uptime": "79.20%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "18.23%",
-    "uptimeMonth": "78.60%",
+    "uptimeWeek": "3.98%",
+    "uptimeMonth": "77.80%",
     "uptimeYear": "58.01%",
-    "time": 1300,
+    "time": 1301,
     "timeDay": 0,
-    "timeWeek": 5458,
-    "timeMonth": 2667,
-    "timeYear": 1444,
+    "timeWeek": 5845,
+    "timeMonth": 2756,
+    "timeYear": 1450,
     "dailyMinutesDown": {
-      "2023-10-08": 49,
+      "2023-10-09": 46,
+      "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -176,8 +177,7 @@
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
-      "2022-10-10": 1440,
-      "2022-10-09": 1440
+      "2022-10-10": 1440
     }
   },
   {
@@ -186,18 +186,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-bsre.bssn.go.id.ico",
     "slug": "laman-ams-b-sr-e",
     "status": "down",
-    "uptime": "81.29%",
+    "uptime": "81.19%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "20.12%",
-    "uptimeMonth": "79.04%",
+    "uptimeWeek": "5.87%",
+    "uptimeMonth": "78.24%",
     "uptimeYear": "59.32%",
-    "time": 1300,
+    "time": 1301,
     "timeDay": 0,
-    "timeWeek": 1569,
-    "timeMonth": 1251,
-    "timeYear": 1397,
+    "timeWeek": 0,
+    "timeMonth": 1268,
+    "timeYear": 1400,
     "dailyMinutesDown": {
-      "2023-10-08": 50,
+      "2023-10-09": 46,
+      "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -374,8 +375,7 @@
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
-      "2022-10-10": 1440,
-      "2022-10-09": 1440
+      "2022-10-10": 1440
     }
   },
   {
@@ -384,18 +384,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-bsre.bssn.go.id.ico",
     "slug": "api-b-sr-e",
     "status": "down",
-    "uptime": "99.01%",
+    "uptime": "98.89%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "27.68%",
-    "uptimeMonth": "83.26%",
-    "uptimeYear": "98.55%",
+    "uptimeWeek": "13.43%",
+    "uptimeMonth": "79.98%",
+    "uptimeYear": "98.28%",
     "time": 1043,
     "timeDay": 0,
-    "timeWeek": 1248,
-    "timeMonth": 1229,
-    "timeYear": 1057,
+    "timeWeek": 1262,
+    "timeMonth": 1232,
+    "timeYear": 1058,
     "dailyMinutesDown": {
-      "2023-10-08": 50,
+      "2023-10-09": 46,
+      "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -416,7 +417,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/esign-bsre.bssn.go.id.ico",
     "slug": "e-sign-b-sr-e",
     "status": "down",
-    "uptime": "31.30%",
+    "uptime": "31.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -427,7 +428,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-08": 50,
+      "2023-10-09": 46,
+      "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -790,8 +792,7 @@
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
-      "2022-10-10": 1440,
-      "2022-10-09": 1440
+      "2022-10-10": 1440
     }
   },
   {
@@ -800,18 +801,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab-bsre.bssn.go.id.ico",
     "slug": "repo-b-sr-e",
     "status": "down",
-    "uptime": "56.36%",
+    "uptime": "56.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1781,
+    "time": 1785,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-08": 50,
+      "2023-10-09": 46,
+      "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -1174,8 +1176,7 @@
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
-      "2022-10-10": 1440,
-      "2022-10-09": 1440
+      "2022-10-10": 1440
     }
   },
   {
@@ -1184,18 +1185,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/file-bsre.bssn.go.id.ico",
     "slug": "file-b-sr-e",
     "status": "down",
-    "uptime": "56.24%",
+    "uptime": "56.18%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1656,
+    "time": 1659,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-08": 50,
+      "2023-10-09": 46,
+      "2023-10-08": 1440,
       "2023-10-07": 1440,
       "2023-10-06": 1440,
       "2023-10-05": 1440,
@@ -1558,8 +1560,7 @@
       "2022-10-13": 1440,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
-      "2022-10-10": 1440,
-      "2022-10-09": 1440
+      "2022-10-10": 1440
     }
   }
 ]
