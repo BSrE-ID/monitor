@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsre.bssn.go.id.ico",
     "slug": "laman-umum-b-sr-e",
     "status": "up",
-    "uptime": "78.85%",
-    "uptimeDay": "86.96%",
-    "uptimeWeek": "12.42%",
+    "uptime": "78.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "26.77%",
     "uptimeMonth": "64.23%",
-    "uptimeYear": "58.25%",
+    "uptimeYear": "58.52%",
     "time": 1304,
-    "timeDay": 943,
-    "timeWeek": 943,
-    "timeMonth": 2900,
-    "timeYear": 1465,
+    "timeDay": 891,
+    "timeWeek": 926,
+    "timeMonth": 2890,
+    "timeYear": 1468,
     "dailyMinutesDown": {
       "2023-10-13": 231,
       "2023-10-12": 1440,
@@ -175,8 +175,7 @@
       "2022-10-19": 617,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
-      "2022-10-16": 1440,
-      "2022-10-15": 1440
+      "2022-10-16": 1440
     }
   },
   {
@@ -185,16 +184,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-bsre.bssn.go.id.ico",
     "slug": "laman-ams-b-sr-e",
     "status": "up",
-    "uptime": "80.83%",
-    "uptimeDay": "86.96%",
-    "uptimeWeek": "12.42%",
+    "uptime": "80.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "26.77%",
     "uptimeMonth": "64.67%",
-    "uptimeYear": "59.56%",
+    "uptimeYear": "59.83%",
     "time": 1305,
-    "timeDay": 1169,
-    "timeWeek": 1169,
-    "timeMonth": 1307,
-    "timeYear": 1413,
+    "timeDay": 926,
+    "timeWeek": 1088,
+    "timeMonth": 1308,
+    "timeYear": 1415,
     "dailyMinutesDown": {
       "2023-10-13": 232,
       "2023-10-12": 1440,
@@ -372,8 +371,7 @@
       "2022-10-19": 617,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
-      "2022-10-16": 1440,
-      "2022-10-15": 1440
+      "2022-10-16": 1440
     }
   },
   {
@@ -383,13 +381,13 @@
     "slug": "api-b-sr-e",
     "status": "up",
     "uptime": "98.43%",
-    "uptimeDay": "86.96%",
-    "uptimeWeek": "12.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "26.77%",
     "uptimeMonth": "66.41%",
     "uptimeYear": "97.15%",
     "time": 1044,
-    "timeDay": 968,
-    "timeWeek": 968,
+    "timeDay": 895,
+    "timeWeek": 944,
     "timeMonth": 1242,
     "timeYear": 1059,
     "dailyMinutesDown": {
@@ -419,7 +417,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/esign-bsre.bssn.go.id.ico",
     "slug": "e-sign-b-sr-e",
     "status": "down",
-    "uptime": "31.09%",
+    "uptime": "31.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -430,7 +428,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-14": 44,
+      "2023-10-15": 50,
+      "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -793,8 +792,7 @@
       "2022-10-19": 1440,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
-      "2022-10-16": 1440,
-      "2022-10-15": 1440
+      "2022-10-16": 1440
     }
   },
   {
@@ -803,18 +801,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab-bsre.bssn.go.id.ico",
     "slug": "repo-b-sr-e",
     "status": "down",
-    "uptime": "55.97%",
+    "uptime": "55.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1806,
+    "time": 1810,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-14": 44,
+      "2023-10-15": 50,
+      "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -1177,8 +1176,7 @@
       "2022-10-19": 1440,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
-      "2022-10-16": 1440,
-      "2022-10-15": 1440
+      "2022-10-16": 1440
     }
   },
   {
@@ -1187,18 +1185,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/file-bsre.bssn.go.id.ico",
     "slug": "file-b-sr-e",
     "status": "down",
-    "uptime": "55.86%",
+    "uptime": "55.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 1673,
+    "time": 1677,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-10-14": 44,
+      "2023-10-15": 50,
+      "2023-10-14": 1440,
       "2023-10-13": 1440,
       "2023-10-12": 1440,
       "2023-10-11": 1440,
@@ -1561,8 +1560,7 @@
       "2022-10-19": 1440,
       "2022-10-18": 1440,
       "2022-10-17": 1440,
-      "2022-10-16": 1440,
-      "2022-10-15": 1440
+      "2022-10-16": 1440
     }
   }
 ]
