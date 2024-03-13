@@ -1,7 +1,7 @@
 url: https://portal-bsre.bssn.go.id/login
-status: down
-code: 503
-responseTime: 899
-lastUpdated: 2024-03-13T06:51:22.233Z
+status: up
+code: 200
+responseTime: 236
+lastUpdated: 2024-03-13T07:19:35.313Z
 startTime: 2021-05-18T13:01:35.000Z
 generator: Upptime <https://github.com/upptime/upptime>
