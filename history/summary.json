@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsre.bssn.go.id.ico",
     "slug": "laman-umum-b-sr-e",
     "status": "up",
-    "uptime": "83.01%",
+    "uptime": "83.02%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.90%",
-    "uptimeYear": "66.67%",
+    "uptimeYear": "66.94%",
     "time": 1673,
-    "timeDay": 1289,
-    "timeWeek": 1119,
-    "timeMonth": 1530,
-    "timeYear": 1665,
+    "timeDay": 983,
+    "timeWeek": 1087,
+    "timeMonth": 1529,
+    "timeYear": 1663,
     "dailyMinutesDown": {
       "2024-04-24": 783,
       "2024-04-23": 573,
@@ -141,8 +141,7 @@
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
-      "2023-05-25": 1440,
-      "2023-05-24": 1440
+      "2023-05-25": 1440
     }
   },
   {
@@ -151,16 +150,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-bsre.bssn.go.id.ico",
     "slug": "laman-ams-b-sr-e",
     "status": "up",
-    "uptime": "84.62%",
+    "uptime": "84.63%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.90%",
-    "uptimeYear": "66.69%",
-    "time": 1499,
-    "timeDay": 1268,
-    "timeWeek": 1210,
-    "timeMonth": 1274,
-    "timeYear": 1484,
+    "uptimeYear": "66.97%",
+    "time": 1500,
+    "timeDay": 992,
+    "timeWeek": 1119,
+    "timeMonth": 1276,
+    "timeYear": 1482,
     "dailyMinutesDown": {
       "2024-04-24": 783,
       "2024-04-23": 573,
@@ -287,8 +286,7 @@
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
-      "2023-05-25": 1440,
-      "2023-05-24": 1440
+      "2023-05-25": 1440
     }
   },
   {
@@ -302,11 +300,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "96.90%",
     "uptimeYear": "96.83%",
-    "time": 1176,
-    "timeDay": 1263,
-    "timeWeek": 1098,
-    "timeMonth": 1084,
-    "timeYear": 1255,
+    "time": 1177,
+    "timeDay": 1198,
+    "timeWeek": 1091,
+    "timeMonth": 1093,
+    "timeYear": 1256,
     "dailyMinutesDown": {
       "2024-04-24": 783,
       "2024-04-23": 573,
@@ -337,7 +335,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/esign-bsre.bssn.go.id.ico",
     "slug": "e-sign-b-sr-e",
     "status": "down",
-    "uptime": "24.84%",
+    "uptime": "24.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -348,7 +346,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-22": 51,
+      "2024-05-23": 50,
+      "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
@@ -711,8 +710,7 @@
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
-      "2023-05-25": 1440,
-      "2023-05-24": 1440
+      "2023-05-25": 1440
     }
   },
   {
@@ -721,7 +719,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab-bsre.bssn.go.id.ico",
     "slug": "repo-b-sr-e",
     "status": "down",
-    "uptime": "44.72%",
+    "uptime": "44.68%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -732,7 +730,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-22": 51,
+      "2024-05-23": 50,
+      "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
@@ -1095,8 +1094,7 @@
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
-      "2023-05-25": 1440,
-      "2023-05-24": 1440
+      "2023-05-25": 1440
     }
   },
   {
@@ -1105,7 +1103,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/file-bsre.bssn.go.id.ico",
     "slug": "file-b-sr-e",
     "status": "down",
-    "uptime": "44.63%",
+    "uptime": "44.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1116,7 +1114,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-05-22": 51,
+      "2024-05-23": 50,
+      "2024-05-22": 1440,
       "2024-05-21": 1440,
       "2024-05-20": 1440,
       "2024-05-19": 1440,
@@ -1479,8 +1478,7 @@
       "2023-05-28": 1440,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
-      "2023-05-25": 1440,
-      "2023-05-24": 1440
+      "2023-05-25": 1440
     }
   }
 ]
