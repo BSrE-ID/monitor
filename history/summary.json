@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsre.bssn.go.id.ico",
     "slug": "laman-umum-b-sr-e",
     "status": "up",
-    "uptime": "83.59%",
+    "uptime": "83.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.34%",
-    "time": 1600,
-    "timeDay": 1094,
-    "timeWeek": 1132,
-    "timeMonth": 1139,
-    "timeYear": 1608,
+    "uptimeYear": "77.62%",
+    "time": 1601,
+    "timeDay": 1101,
+    "timeWeek": 1136,
+    "timeMonth": 1137,
+    "timeYear": 1607,
     "dailyMinutesDown": {
       "2024-05-29": 21,
       "2024-05-24": 60,
@@ -104,8 +104,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -114,16 +113,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-bsre.bssn.go.id.ico",
     "slug": "laman-ams-b-sr-e",
     "status": "up",
-    "uptime": "85.24%",
+    "uptime": "85.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "77.36%",
-    "time": 1434,
-    "timeDay": 1098,
-    "timeWeek": 1007,
-    "timeMonth": 1069,
-    "timeYear": 1427,
+    "uptimeYear": "77.63%",
+    "time": 1433,
+    "timeDay": 1123,
+    "timeWeek": 1015,
+    "timeMonth": 1068,
+    "timeYear": 1426,
     "dailyMinutesDown": {
       "2024-06-17": 23,
       "2024-05-29": 21,
@@ -214,8 +213,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -224,14 +222,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-bsre.bssn.go.id.ico",
     "slug": "api-b-sr-e",
     "status": "up",
-    "uptime": "98.66%",
+    "uptime": "98.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.81%",
     "time": 1189,
-    "timeDay": 988,
-    "timeWeek": 1011,
+    "timeDay": 1089,
+    "timeWeek": 1016,
     "timeMonth": 1063,
     "timeYear": 1222,
     "dailyMinutesDown": {
@@ -266,10 +264,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/esign-bsre.bssn.go.id.ico",
     "slug": "e-sign-b-sr-e",
     "status": "down",
-    "uptime": "23.99%",
+    "uptime": "23.97%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -277,7 +275,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 58,
+      "2024-07-01": 59,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -640,8 +639,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -650,10 +648,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab-bsre.bssn.go.id.ico",
     "slug": "repo-b-sr-e",
     "status": "down",
-    "uptime": "43.19%",
+    "uptime": "43.15%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -661,7 +659,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 58,
+      "2024-07-01": 59,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -1024,8 +1023,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   },
   {
@@ -1034,10 +1032,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/file-bsre.bssn.go.id.ico",
     "slug": "file-b-sr-e",
     "status": "down",
-    "uptime": "43.10%",
+    "uptime": "43.06%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -1045,7 +1043,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-06-30": 58,
+      "2024-07-01": 59,
+      "2024-06-30": 1440,
       "2024-06-29": 1440,
       "2024-06-28": 1440,
       "2024-06-27": 1440,
@@ -1408,8 +1407,7 @@
       "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
-      "2023-07-03": 1440,
-      "2023-07-02": 1440
+      "2023-07-03": 1440
     }
   }
 ]
