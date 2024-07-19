@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsre.bssn.go.id.ico",
     "slug": "laman-umum-b-sr-e",
     "status": "down",
-    "uptime": "83.85%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "83.82%",
+    "uptimeDay": "62.45%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "82.44%",
     "time": 1593,
-    "timeDay": 1065,
-    "timeWeek": 1020,
-    "timeMonth": 1062,
+    "timeDay": 0,
+    "timeWeek": 1000,
+    "timeMonth": 1064,
     "timeYear": 1579,
     "dailyMinutesDown": {
-      "2024-07-18": 1,
+      "2024-07-19": 54,
+      "2024-07-18": 486,
       "2024-05-29": 21,
       "2024-05-24": 60,
       "2024-04-24": 783,
@@ -87,8 +88,7 @@
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
-      "2023-07-21": 1440,
-      "2023-07-20": 1440
+      "2023-07-21": 1440
     }
   },
   {
@@ -97,18 +97,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-bsre.bssn.go.id.ico",
     "slug": "laman-ams-b-sr-e",
     "status": "down",
-    "uptime": "85.48%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptime": "85.45%",
+    "uptimeDay": "62.48%",
+    "uptimeWeek": "94.64%",
+    "uptimeMonth": "98.77%",
     "uptimeYear": "82.46%",
-    "time": 1414,
-    "timeDay": 1095,
-    "timeWeek": 1096,
-    "timeMonth": 1058,
+    "time": 1415,
+    "timeDay": 0,
+    "timeWeek": 1091,
+    "timeMonth": 1056,
     "timeYear": 1408,
     "dailyMinutesDown": {
-      "2024-07-18": 1,
+      "2024-07-19": 54,
+      "2024-07-18": 486,
       "2024-06-17": 23,
       "2024-05-29": 21,
       "2024-05-24": 59,
@@ -180,8 +181,7 @@
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
-      "2023-07-21": 1440,
-      "2023-07-20": 1440
+      "2023-07-21": 1440
     }
   },
   {
@@ -190,18 +190,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-bsre.bssn.go.id.ico",
     "slug": "api-b-sr-e",
     "status": "down",
-    "uptime": "98.69%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "96.81%",
-    "time": 1191,
-    "timeDay": 1070,
-    "timeWeek": 990,
-    "timeMonth": 1019,
-    "timeYear": 1220,
+    "uptime": "98.65%",
+    "uptimeDay": "62.52%",
+    "uptimeWeek": "94.65%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "96.71%",
+    "time": 1192,
+    "timeDay": 0,
+    "timeWeek": 982,
+    "timeMonth": 1017,
+    "timeYear": 1221,
     "dailyMinutesDown": {
-      "2024-07-18": 0,
+      "2024-07-19": 55,
+      "2024-07-18": 485,
       "2024-05-29": 20,
       "2024-05-24": 58,
       "2024-04-24": 783,
@@ -244,7 +245,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-18": 955,
+      "2024-07-19": 55,
+      "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
@@ -607,8 +609,7 @@
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
-      "2023-07-21": 1440,
-      "2023-07-20": 1440
+      "2023-07-21": 1440
     }
   },
   {
@@ -617,7 +618,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab-bsre.bssn.go.id.ico",
     "slug": "repo-b-sr-e",
     "status": "down",
-    "uptime": "42.50%",
+    "uptime": "42.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -628,7 +629,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-18": 955,
+      "2024-07-19": 55,
+      "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
@@ -991,8 +993,7 @@
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
-      "2023-07-21": 1440,
-      "2023-07-20": 1440
+      "2023-07-21": 1440
     }
   },
   {
@@ -1001,7 +1002,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/file-bsre.bssn.go.id.ico",
     "slug": "file-b-sr-e",
     "status": "down",
-    "uptime": "42.41%",
+    "uptime": "42.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1012,7 +1013,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-18": 955,
+      "2024-07-19": 55,
+      "2024-07-18": 1440,
       "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
@@ -1375,8 +1377,7 @@
       "2023-07-24": 1440,
       "2023-07-23": 1440,
       "2023-07-22": 1440,
-      "2023-07-21": 1440,
-      "2023-07-20": 1440
+      "2023-07-21": 1440
     }
   }
 ]
