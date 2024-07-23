@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsre.bssn.go.id.ico",
     "slug": "laman-umum-b-sr-e",
     "status": "up",
-    "uptime": "83.85%",
+    "uptime": "83.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.78%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "83.27%",
-    "time": 1596,
-    "timeDay": 1077,
-    "timeWeek": 1064,
+    "uptimeYear": "83.50%",
+    "time": 1595,
+    "timeDay": 1071,
+    "timeWeek": 1071,
     "timeMonth": 1077,
-    "timeYear": 1571,
+    "timeYear": 1569,
     "dailyMinutesDown": {
       "2024-07-20": 64,
       "2024-07-19": 178,
@@ -85,8 +85,7 @@
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
-      "2023-07-25": 1440,
-      "2023-07-24": 1440
+      "2023-07-25": 1440
     }
   },
   {
@@ -95,15 +94,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-bsre.bssn.go.id.ico",
     "slug": "laman-ams-b-sr-e",
     "status": "up",
-    "uptime": "85.50%",
+    "uptime": "85.51%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "92.79%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "83.29%",
-    "time": 1413,
-    "timeDay": 1059,
-    "timeWeek": 1104,
-    "timeMonth": 1063,
+    "uptimeYear": "83.52%",
+    "time": 1414,
+    "timeDay": 1088,
+    "timeWeek": 1066,
+    "timeMonth": 1062,
     "timeYear": 1402,
     "dailyMinutesDown": {
       "2024-07-20": 63,
@@ -176,8 +175,7 @@
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
-      "2023-07-25": 1440,
-      "2023-07-24": 1440
+      "2023-07-25": 1440
     }
   },
   {
@@ -192,10 +190,10 @@
     "uptimeMonth": "97.99%",
     "uptimeYear": "96.64%",
     "time": 1185,
-    "timeDay": 1081,
-    "timeWeek": 1025,
+    "timeDay": 1085,
+    "timeWeek": 1038,
     "timeMonth": 1022,
-    "timeYear": 1220,
+    "timeYear": 1221,
     "dailyMinutesDown": {
       "2024-07-22": 20,
       "2024-07-20": 200,
@@ -232,7 +230,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/esign-bsre.bssn.go.id.ico",
     "slug": "e-sign-b-sr-e",
     "status": "down",
-    "uptime": "23.53%",
+    "uptime": "23.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -243,7 +241,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-22": 271,
+      "2024-07-23": 55,
+      "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -606,8 +605,7 @@
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
-      "2023-07-25": 1440,
-      "2023-07-24": 1440
+      "2023-07-25": 1440
     }
   },
   {
@@ -616,7 +614,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab-bsre.bssn.go.id.ico",
     "slug": "repo-b-sr-e",
     "status": "down",
-    "uptime": "42.37%",
+    "uptime": "42.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -627,7 +625,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-22": 271,
+      "2024-07-23": 55,
+      "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -990,8 +989,7 @@
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
-      "2023-07-25": 1440,
-      "2023-07-24": 1440
+      "2023-07-25": 1440
     }
   },
   {
@@ -1000,7 +998,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/file-bsre.bssn.go.id.ico",
     "slug": "file-b-sr-e",
     "status": "down",
-    "uptime": "42.28%",
+    "uptime": "42.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -1011,7 +1009,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-22": 271,
+      "2024-07-23": 55,
+      "2024-07-22": 1440,
       "2024-07-21": 1440,
       "2024-07-20": 1440,
       "2024-07-19": 1440,
@@ -1374,8 +1373,7 @@
       "2023-07-28": 1440,
       "2023-07-27": 1440,
       "2023-07-26": 1440,
-      "2023-07-25": 1440,
-      "2023-07-24": 1440
+      "2023-07-25": 1440
     }
   }
 ]
