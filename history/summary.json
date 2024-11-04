@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsre.bssn.go.id.ico",
     "slug": "laman-umum-b-sr-e",
     "status": "down",
-    "uptime": "77.06%",
+    "uptime": "77.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.43%",
+    "uptimeYear": "71.16%",
     "time": 1571,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1352,
+    "timeYear": 1353,
     "dailyMinutesDown": {
-      "2024-11-03": 67,
+      "2024-11-04": 64,
+      "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
@@ -139,18 +140,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-bsre.bssn.go.id.ico",
     "slug": "laman-ams-b-sr-e",
     "status": "down",
-    "uptime": "78.58%",
+    "uptime": "78.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.41%",
+    "uptimeYear": "71.14%",
     "time": 1400,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1356,
+    "timeYear": 1358,
     "dailyMinutesDown": {
-      "2024-11-03": 67,
+      "2024-11-04": 64,
+      "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
@@ -274,18 +276,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-bsre.bssn.go.id.ico",
     "slug": "api-b-sr-e",
     "status": "down",
-    "uptime": "90.63%",
+    "uptime": "90.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "71.37%",
-    "time": 1230,
+    "uptimeYear": "71.10%",
+    "time": 1231,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1156,
     "dailyMinutesDown": {
-      "2024-11-03": 67,
+      "2024-11-04": 64,
+      "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
@@ -410,7 +413,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/esign-bsre.bssn.go.id.ico",
     "slug": "e-sign-b-sr-e",
     "status": "down",
-    "uptime": "21.60%",
+    "uptime": "21.58%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -421,7 +424,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-03": 67,
+      "2024-11-04": 64,
+      "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
@@ -784,8 +788,7 @@
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
-      "2023-11-06": 1440,
-      "2023-11-05": 1440
+      "2023-11-06": 1440
     }
   },
   {
@@ -794,7 +797,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab-bsre.bssn.go.id.ico",
     "slug": "repo-b-sr-e",
     "status": "down",
-    "uptime": "38.89%",
+    "uptime": "38.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -805,7 +808,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-03": 67,
+      "2024-11-04": 64,
+      "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
@@ -1168,8 +1172,7 @@
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
-      "2023-11-06": 1440,
-      "2023-11-05": 1440
+      "2023-11-06": 1440
     }
   },
   {
@@ -1178,7 +1181,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/file-bsre.bssn.go.id.ico",
     "slug": "file-b-sr-e",
     "status": "down",
-    "uptime": "38.80%",
+    "uptime": "38.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1189,7 +1192,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-03": 67,
+      "2024-11-04": 64,
+      "2024-11-03": 1440,
       "2024-11-02": 1440,
       "2024-11-01": 1440,
       "2024-10-31": 1440,
@@ -1552,8 +1556,7 @@
       "2023-11-09": 1440,
       "2023-11-08": 1440,
       "2023-11-07": 1440,
-      "2023-11-06": 1440,
-      "2023-11-05": 1440
+      "2023-11-06": 1440
     }
   }
 ]
