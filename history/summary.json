@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsre.bssn.go.id.ico",
     "slug": "laman-umum-b-sr-e",
     "status": "down",
-    "uptime": "71.57%",
+    "uptime": "71.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.88%",
-    "time": 1339,
+    "uptimeYear": "44.60%",
+    "time": 1340,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1278,
+    "timeYear": 1279,
     "dailyMinutesDown": {
-      "2025-02-08": 60,
+      "2025-02-09": 65,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -232,18 +233,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-bsre.bssn.go.id.ico",
     "slug": "laman-ams-b-sr-e",
     "status": "down",
-    "uptime": "72.98%",
+    "uptime": "72.93%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.87%",
+    "uptimeYear": "44.59%",
     "time": 1311,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1211,
     "dailyMinutesDown": {
-      "2025-02-08": 60,
+      "2025-02-09": 65,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -461,18 +463,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-bsre.bssn.go.id.ico",
     "slug": "api-b-sr-e",
     "status": "down",
-    "uptime": "84.17%",
+    "uptime": "84.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "44.82%",
+    "uptimeYear": "44.55%",
     "time": 1132,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1092,
+    "timeYear": 1091,
     "dailyMinutesDown": {
-      "2025-02-08": 60,
+      "2025-02-09": 65,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -691,7 +694,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/esign-bsre.bssn.go.id.ico",
     "slug": "e-sign-b-sr-e",
     "status": "down",
-    "uptime": "20.06%",
+    "uptime": "20.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -702,7 +705,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 60,
+      "2025-02-09": 65,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -1065,8 +1069,7 @@
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
-      "2024-02-11": 1440,
-      "2024-02-10": 1440
+      "2024-02-11": 1440
     }
   },
   {
@@ -1075,7 +1078,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab-bsre.bssn.go.id.ico",
     "slug": "repo-b-sr-e",
     "status": "down",
-    "uptime": "36.12%",
+    "uptime": "36.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1086,7 +1089,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 60,
+      "2025-02-09": 65,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -1449,8 +1453,7 @@
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
-      "2024-02-11": 1440,
-      "2024-02-10": 1440
+      "2024-02-11": 1440
     }
   },
   {
@@ -1459,7 +1462,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/file-bsre.bssn.go.id.ico",
     "slug": "file-b-sr-e",
     "status": "down",
-    "uptime": "36.04%",
+    "uptime": "36.01%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -1470,7 +1473,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 60,
+      "2025-02-09": 65,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -1833,8 +1837,7 @@
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
-      "2024-02-11": 1440,
-      "2024-02-10": 1440
+      "2024-02-11": 1440
     }
   }
 ]
