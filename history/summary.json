@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bsre.bssn.go.id.ico",
     "slug": "laman-umum-b-sr-e",
     "status": "up",
-    "uptime": "69.98%",
-    "uptimeDay": "72.87%",
-    "uptimeWeek": "10.41%",
-    "uptimeMonth": "10.35%",
+    "uptime": "70.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "24.71%",
+    "uptimeMonth": "13.64%",
     "uptimeYear": "36.31%",
-    "time": 1257,
-    "timeDay": 1181,
-    "timeWeek": 1181,
-    "timeMonth": 1181,
-    "timeYear": 1296,
+    "time": 1258,
+    "timeDay": 1358,
+    "timeWeek": 1240,
+    "timeMonth": 1240,
+    "timeYear": 1304,
     "dailyMinutesDown": {
       "2025-03-11": 455,
       "2025-03-10": 1440,
@@ -263,15 +263,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/portal-bsre.bssn.go.id.ico",
     "slug": "laman-ams-b-sr-e",
     "status": "up",
-    "uptime": "71.36%",
-    "uptimeDay": "72.86%",
-    "uptimeWeek": "10.41%",
-    "uptimeMonth": "10.35%",
+    "uptime": "71.38%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "24.71%",
+    "uptimeMonth": "13.64%",
     "uptimeYear": "36.30%",
-    "time": 1239,
-    "timeDay": 3249,
-    "timeWeek": 3249,
-    "timeMonth": 3249,
+    "time": 1225,
+    "timeDay": 1058,
+    "timeWeek": 2519,
+    "timeMonth": 2519,
     "timeYear": 1256,
     "dailyMinutesDown": {
       "2025-03-11": 455,
@@ -513,8 +513,7 @@
       "2024-05-29": 21,
       "2024-05-24": 59,
       "2024-04-24": 783,
-      "2024-04-23": 573,
-      "2024-03-13": 28
+      "2024-04-23": 573
     }
   },
   {
@@ -523,15 +522,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-bsre.bssn.go.id.ico",
     "slug": "api-b-sr-e",
     "status": "up",
-    "uptime": "82.29%",
-    "uptimeDay": "73.62%",
-    "uptimeWeek": "10.52%",
-    "uptimeMonth": "10.38%",
+    "uptime": "82.30%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "24.81%",
+    "uptimeMonth": "13.67%",
     "uptimeYear": "36.26%",
     "time": 1129,
-    "timeDay": 1654,
-    "timeWeek": 1654,
-    "timeMonth": 1654,
+    "timeDay": 1055,
+    "timeWeek": 1454,
+    "timeMonth": 1454,
     "timeYear": 1092,
     "dailyMinutesDown": {
       "2025-03-11": 445,
@@ -774,8 +773,7 @@
       "2024-05-24": 58,
       "2024-04-24": 783,
       "2024-04-23": 573,
-      "2024-03-14": 93,
-      "2024-03-13": 41
+      "2024-03-14": 93
     }
   },
   {
@@ -784,7 +782,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/esign-bsre.bssn.go.id.ico",
     "slug": "e-sign-b-sr-e",
     "status": "down",
-    "uptime": "19.60%",
+    "uptime": "19.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -795,7 +793,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 65,
+      "2025-03-13": 66,
+      "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1158,8 +1157,7 @@
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
-      "2024-03-14": 1440,
-      "2024-03-13": 1440
+      "2024-03-14": 1440
     }
   },
   {
@@ -1168,7 +1166,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab-bsre.bssn.go.id.ico",
     "slug": "repo-b-sr-e",
     "status": "down",
-    "uptime": "35.29%",
+    "uptime": "35.26%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1179,7 +1177,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 65,
+      "2025-03-13": 66,
+      "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1542,8 +1541,7 @@
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
-      "2024-03-14": 1440,
-      "2024-03-13": 1440
+      "2024-03-14": 1440
     }
   },
   {
@@ -1552,7 +1550,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/file-bsre.bssn.go.id.ico",
     "slug": "file-b-sr-e",
     "status": "down",
-    "uptime": "35.21%",
+    "uptime": "35.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -1563,7 +1561,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-03-12": 65,
+      "2025-03-13": 66,
+      "2025-03-12": 1440,
       "2025-03-11": 1440,
       "2025-03-10": 1440,
       "2025-03-09": 1440,
@@ -1926,8 +1925,7 @@
       "2024-03-17": 1440,
       "2024-03-16": 1440,
       "2024-03-15": 1440,
-      "2024-03-14": 1440,
-      "2024-03-13": 1440
+      "2024-03-14": 1440
     }
   }
 ]
